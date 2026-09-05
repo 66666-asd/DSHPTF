@@ -1,2 +1,2 @@
-# MDSH-PTP
-Multimodal Dynamic Signed Hypergraph Encoding with Phenotype-Guided Temporal Prediction for Neuropsychiatric Disorder Diagnosis
+# DSHPTF
+DSHPTF: Dynamic Signed Hypergraph Phenotype‑Guided Temporal Framework for Neuropsychiatric Disorder Diagnosis 
